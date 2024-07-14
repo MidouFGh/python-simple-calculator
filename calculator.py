@@ -1,4 +1,4 @@
-print("Welcome to my python calculator")
+#simple python calculator v1.0
 software = True
 while software:
     #--------------------------------------------calculation----------------------------------------------
@@ -33,4 +33,5 @@ while software:
         else:
             print("repeate please !")
             restart()
+    
     restart()
