@@ -1,3 +1,4 @@
+print("Welcome to my python calculator")
 software = True
 while software:
     #--------------------------------------------calculation----------------------------------------------
